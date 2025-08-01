@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Aymen Wajid | AI & Tech Portfolio</title>
+  <title>Ume Aymen | AI & Tech Portfolio</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
@@ -75,7 +75,7 @@
 </head>
 <body>
   <header>
-    <h1>Aymen Wajid</h1>
+    <h1>Ume Aymen</h1>
     <p>AI Automation Specialist | Tech Educator | Python & ML Developer</p>
   </header>
 
@@ -112,13 +112,13 @@
     <section>
       <h2 class="section-title">Contact</h2>
       <p>Email: aymen@example.com</p>
-      <p>LinkedIn: <a href="https://linkedin.com/in/aymentheinnovator">linkedin.com/in/aymentheinnovator</a></p>
-      <p>GitHub: <a href="https://github.com/AymenTheInnovator">github.com/AymenTheInnovator</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/umeaymen/">linkedin profile</a></p>
+      <p>GitHub: <a href="https://github.com/AymenTheInnovator">AymenTheInnovator</a></p>
     </section>
   </div>
 
   <footer>
-    &copy; 2025 Aymen Wajid. All rights reserved.
+    &copy; 2025 Ume Aymen. All rights reserved.
   </footer>
 </body>
 </html>
